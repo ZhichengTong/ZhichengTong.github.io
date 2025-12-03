@@ -12,7 +12,7 @@ He obtained his Ph.D. in Applied Mathematics from Jilin University in 2025 under
 
 #### Contact
 
-Emails: tongzc25@jlu.edu.cn; &ensp;tongzc25@gmail.com
+Emails: &ensp;tongzc25@jlu.edu.cn; &ensp;tongzc25@gmail.com
  <div style="height:10px;"></div>
  
 
