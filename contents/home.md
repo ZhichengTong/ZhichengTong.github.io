@@ -5,11 +5,13 @@
 [![senli1073](https://img.shields.io/badge/ZhichengTong-github-blue?logo=github)](https://github.com/ZhichengTong)
 
 
-He obtained his Ph.D. in Applied Mathematics from Jilin University in 2025 under the supervision of Prof. Yong Li. He is currently a postdoctoral researcher (Assistant Researcher) at the same university. His research interests center on dynamical systems, including weighted ergodic theory, KAM theory, and linearization theory.
+He obtained his Ph.D. in Applied Mathematics from Jilin University in 2025 under the supervision of Prof. Yong Li. He is currently a postdoctoral researcher (Assistant Researcher) at the same university. His research interests center on dynamical systems, including weighted ergodic theory, KAM theory, and linearization theory.\
+
+[[zbMATH Open]](https://zbmath.org/authors/tong.zhicheng)
 
 #### Contact
 
-Email: tongzc25@jlu.edu.cn
+Emails: tongzc25@jlu.edu.cn; tongzc25@gmail.com
 
 zbMATH Open: https://zbmath.org/authors/tong.zhicheng
 
