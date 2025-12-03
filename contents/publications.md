@@ -10,7 +10,7 @@
 
 - <strong>Zhicheng Tong</strong>, Jiayin Du, Yong Li. The KAM theorem on the modulus of continuity about parameters. <em>Sci. China Math.</em> 67 (2024), no. 3, 577–592. [[https://doi.org/10.1007/s11425-022-2102-5]](https://doi.org/10.1007/s11425-022-2102-5)
 
-- <strong>Zhicheng Tong</strong>, Lu Xu, Yong Li. A sharp integrability condition on $ C^1 $ linearization for planar contractions under modulus of continuity. <em>J. Differential Equations</em> 413 (2024), 370–410. [[https://doi.org/10.1016/j.jde.2024.08.063]](https://doi.org/10.1016/j.jde.2024.08.063)
+- <strong>Zhicheng Tong</strong>, Lu Xu, Yong Li. A sharp integrability condition on $C^1$ linearization for planar contractions under modulus of continuity. <em>J. Differential Equations</em> 413 (2024), 370–410. [[https://doi.org/10.1016/j.jde.2024.08.063]](https://doi.org/10.1016/j.jde.2024.08.063)
 
 - <strong>Zhicheng Tong</strong>, Yong Li. A note on exponential convergence of Ces\`{a}ro weighted Birkhoff average and multimodal weighted approach. <em>Acta Math. Sin. (Engl. Ser.)</em> 41 (2025), no. 9, 2301–2323. [[https://doi.org/10.1007/s10114-025-3365-5]](https://doi.org/10.1007/s10114-025-3365-5)
 
@@ -24,8 +24,23 @@
 
 #### Submitted
 
-- <strong>Zhicheng Tong</strong>, Yong Li, Weighted Birkhoff averages: Deterministic and probabilistic perspectives. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2505.03210]](https://doi.org/10.48550/arXiv.2505.03210)
+- <strong>Zhicheng Tong</strong>, Yong Li. Optimal rates of uniform convergence for weighted Birkhoff averages via almost all rotations.
 
+- <strong>Zhicheng Tong</strong>, Yong Li. Weighted Birkhoff averages: Deterministic and probabilistic perspectives. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2505.03210]](https://doi.org/10.48550/arXiv.2505.03210)
+
+- <strong>Zhicheng Tong</strong>, Yong Li. Weighted multiple ergodic averages via analytic observables over $\mathbb{T}^\infty$: Is exponential pointwise convergence universal? [[https://doi.org/10.48550/arXiv.2405.02866]](https://doi.org/10.48550/arXiv.2405.02866)
+
+- <strong>Zhicheng Tong</strong>, Yong Li. Towards sharp regularity: Full-dimensional tori in $C^\infty$ vector fields over $\mathbb{T}^\infty$. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2306.08211]](https://doi.org/10.48550/arXiv.2306.08211)
+
+- <strong>Zhicheng Tong</strong>, Yong Li. An infinite-dimensional Kolmogorov theorem and the construction of almost periodic breathers. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2508.13501]](https://doi.org/10.48550/arXiv.2508.13501)
+
+- <strong>Zhicheng Tong</strong>, Yong Li. A generic approach via relative singularity and controllability: Frequency-preserving with arbitrarily weak regularity in parameterized Hamiltonian systems. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2309.11797]](https://doi.org/10.48550/arXiv.2309.11797)
+
+- <strong>Zhicheng Tong</strong>, Yong Li. Sharp regularity of a weighted Sobolev space over $ \mathbb{T}^n $ and its relation to finitely differentiable KAM theory.
+
+- <strong>Zhicheng Tong</strong>, Yong Li. Exponential convergence can happen in weighted Birkhoff averages via quasi-periodicity with arbitrarily weak nonresonance and extremely low regularity. 
+
+- <strong>Zhicheng Tong</strong>, Shuyuan Xiao, Yong Li. Relation between irrationality and regularity for $C^1$ conjugacy of $C^2$ circle diffeomorphisms to rigid rotations. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2211.01590]](https://doi.org/10.48550/arXiv.2211.01590)
 
 
 
