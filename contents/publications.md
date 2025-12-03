@@ -12,11 +12,12 @@
 
 - <strong>Zhicheng Tong</strong>, Lu Xu, Yong Li. A sharp integrability condition on $C^1$ linearization for planar contractions under modulus of continuity. <em>J. Differential Equations</em> 413 (2024), 370–410. [[https://doi.org/10.1016/j.jde.2024.08.063]](https://doi.org/10.1016/j.jde.2024.08.063)
 
-- <strong>Zhicheng Tong</strong>, Yong Li. A note on exponential convergence of Ces\`{a}ro weighted Birkhoff average and multimodal weighted approach. <em>Acta Math. Sin. (Engl. Ser.)</em> 41 (2025), no. 9, 2301–2323. [[https://doi.org/10.1007/s10114-025-3365-5]](https://doi.org/10.1007/s10114-025-3365-5)
 
 - <strong>Zhicheng Tong</strong>, Yong Li. Differentiable Hartman-Grobman Theorem via modulus of continuity: A sharp result on linearization in general Banach space. <em>Commun. Math. Sci.</em> 22 (2024), no. 5, 1361–1396. [[https://doi.org/10.4310/CMS.2024.v22.n5.a8]](https://doi.org/10.4310/CMS.2024.v22.n5.a8)
 
 - <strong>Zhicheng Tong</strong>, Yong Li. KAM Theorem towards the Weak Diophantine Condition. <em>Commun. Math. Sci.</em> 22 (2024), no. 8, 2311–2343. [[https://doi.org/10.4310/CMS.240918203945]](https://doi.org/10.4310/CMS.240918203945)
+
+- <strong>Zhicheng Tong</strong>, Yong Li. A note on exponential convergence of Cesàro weighted Birkhoff average and multimodal weighted approach. <em>Acta Math. Sin. (Engl. Ser.)</em> 41 (2025), no. 9, 2301–2323. [[https://doi.org/10.1007/s10114-025-3365-5]](https://doi.org/10.1007/s10114-025-3365-5)
 
 - Jiayin Du, <strong>Zhicheng Tong</strong>, Yong Li. The persistence of full dimensional invariant tori in parameterized Hamiltonian lattice systems. <em>Nonlinearity</em> 38 (2025), no. 7, Paper No. 075005, 34 pp. [[https://doi.org/10.1088/1361-6544/addbba]](https://doi.org/10.1088/1361-6544/addbba)
 
