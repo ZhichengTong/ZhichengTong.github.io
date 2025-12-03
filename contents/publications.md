@@ -21,7 +21,7 @@
 
 - Jiayin Du, <strong>Zhicheng Tong</strong>, Yong Li. The persistence of full dimensional invariant tori in parameterized Hamiltonian lattice systems. <em>Nonlinearity</em> 38 (2025), no. 7, Paper No. 075005, 34 pp. [[https://doi.org/10.1088/1361-6544/addbba]](https://doi.org/10.1088/1361-6544/addbba)
 
-- Chang Liu, <strong>Zhicheng Tong</strong>, Yong Li. Moser's theorem with frequency-preserving. Proc. Roy. Soc. Edinburgh Sect. A 154 (2024), no. 5, 1473–1503. [[https://doi.org/10.1017/prm.2023.74]](https://doi.org/10.1017/prm.2023.74)
+- Chang Liu, <strong>Zhicheng Tong</strong>, Yong Li. Moser's theorem with frequency-preserving. <em>Proc. Roy. Soc. Edinburgh Sect. A</em> 154 (2024), no. 5, 1473–1503. [[https://doi.org/10.1017/prm.2023.74]](https://doi.org/10.1017/prm.2023.74)
 
 #### Submitted
 
