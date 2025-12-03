@@ -6,4 +6,5 @@
 * Bank of China Basic-Discipline Scholarship, 2024.
 * First-Class Outstanding Graduate (Ph.D.) Scholarship, 2024.
 * Outstanding Graduate Student (Ph.D.), 2024.
-* Doctoral Academic Scholarship, 2022 – 2024
+* Doctoral Academic Scholarship, 2022, 2023, 2024.
+* Graduate Academic Scholarship, 2020, 2021.
