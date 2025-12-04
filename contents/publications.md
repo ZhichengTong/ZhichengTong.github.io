@@ -39,7 +39,7 @@
 
 - <strong>Zhicheng Tong</strong>, Yong Li. Sharp regularity of a weighted Sobolev space over $ \mathbb{T}^n $ and its relation to finitely differentiable KAM theory.
 
-- <strong>Zhicheng Tong</strong>, Yong Li. Exponential convergence can happen in weighted Birkhoff averages via quasi-periodicity with arbitrarily weak nonresonance and extremely low regularity. 
+- <strong>Zhicheng Tong</strong>. Exponential convergence can happen in weighted Birkhoff averages via quasi-periodicity with arbitrarily weak nonresonance and extremely low regularity. 
 
 - <strong>Zhicheng Tong</strong>, Shuyuan Xiao, Yong Li. Relation between irrationality and regularity for $C^1$ conjugacy of $C^2$ circle diffeomorphisms to rigid rotations. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2211.01590]](https://doi.org/10.48550/arXiv.2211.01590)
 
