@@ -4,7 +4,7 @@
 
 - <strong>Zhicheng Tong</strong>, Yong Li. Exponential convergence of the weighted Birkhoff average. <em>J. Math. Pures Appl. (9)</em> 188 (2024), 470–492. [[https://doi.org/10.1016/j.matpur.2024.06.003]](https://doi.org/10.1016/j.matpur.2024.06.003)
 
-- <strong>Zhicheng Tong</strong>, Yong Li. Quantitative uniform exponential acceleration of averages along decaying waves. <em>Izv. Ross. Akad. Nauk Ser. Mat.</em> 89 (2025), no. 6, 131–161; reprinted in <em>Izv. Math.</em> 89 (2025), no. 6, 1208–1238. [[https://doi.org/10.4213/im9666]](https://doi.org/10.4213/im9666)  
+- <strong>Zhicheng Tong</strong>, Yong Li. Quantitative uniform exponential acceleration of averages along decaying waves. <em>Izv. Ross. Akad. Nauk Ser. Mat.</em> 89 (2025), no. 6, 131–161; reprinted in <em>Izv. Math.</em> 89 (2025), no. 6, 1208–1238. [[https://doi.org/10.4213/im9666e]](https://doi.org/10.4213/im9666e)  
 
 - <strong>Zhicheng Tong</strong>, Yong Li. Towards continuity: Universal frequency-preserving KAM persistence and remaining regularity in nearly non-integrable Hamiltonian systems. <em>Commun. Contemp. Math.</em> 27 (2025), no. 6, Paper No. 2450038, 42 pp. [[https://doi.org/10.1142/S021919972450038X]](https://doi.org/10.1142/S021919972450038X) 
 
@@ -29,7 +29,7 @@
 
 - <strong>Zhicheng Tong</strong>, Yong Li. Weighted Birkhoff averages: Deterministic and probabilistic perspectives. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2505.03210]](https://doi.org/10.48550/arXiv.2505.03210)
 
-- <strong>Zhicheng Tong</strong>, Yong Li. Weighted multiple ergodic averages via analytic observables over $\mathbb{T}^\infty$: Is exponential pointwise convergence universal? [[https://doi.org/10.48550/arXiv.2405.02866]](https://doi.org/10.48550/arXiv.2405.02866)
+- <strong>Zhicheng Tong</strong>, Yong Li. Weighted multiple ergodic averages via analytic observables over $\mathbb{T}^\infty$: Is exponential pointwise convergence universal? <em>Preprint</em>.  [[https://doi.org/10.48550/arXiv.2405.02866]](https://doi.org/10.48550/arXiv.2405.02866)
 
 - <strong>Zhicheng Tong</strong>, Yong Li. Towards sharp regularity: Full-dimensional tori in $C^\infty$ vector fields over $\mathbb{T}^\infty$. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2306.08211]](https://doi.org/10.48550/arXiv.2306.08211)
 
