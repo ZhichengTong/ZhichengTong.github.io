@@ -1,6 +1,7 @@
 
 
 #### Published
+- <strong>Zhicheng Tong</strong>, Yong Li. Weighted Birkhoff averages: Deterministic and probabilistic perspectives. To appear in <em>Math. Ann.</em>. [[https://doi.org/10.48550/arXiv.2505.03210]](https://doi.org/10.48550/arXiv.2505.03210)
 
 - <strong>Zhicheng Tong</strong>, Yong Li. Exponential convergence of the weighted Birkhoff average. <em>J. Math. Pures Appl. (9)</em> 188 (2024), 470–492. [[https://doi.org/10.1016/j.matpur.2024.06.003]](https://doi.org/10.1016/j.matpur.2024.06.003)
 
@@ -23,11 +24,11 @@
 
 - Chang Liu, <strong>Zhicheng Tong</strong>, Yong Li. Moser's theorem with frequency-preserving. <em>Proc. Roy. Soc. Edinburgh Sect. A</em> 154 (2024), no. 5, 1473–1503. [[https://doi.org/10.1017/prm.2023.74]](https://doi.org/10.1017/prm.2023.74)
 
+- Chang Liu, <strong>Zhicheng Tong</strong>, Yong Li. Infinite-dimensional Moser's Theorem. To appear in <em>Acta Math. Sin. (Engl. Ser.)</em>.
+
 #### Submitted
 
 - <strong>Zhicheng Tong</strong>, Yong Li. Optimal rates of uniform convergence for weighted Birkhoff averages via almost all rotations.
-
-- <strong>Zhicheng Tong</strong>, Yong Li. Weighted Birkhoff averages: Deterministic and probabilistic perspectives. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2505.03210]](https://doi.org/10.48550/arXiv.2505.03210)
 
 - <strong>Zhicheng Tong</strong>, Yong Li. Weighted multiple ergodic averages via analytic observables over $\mathbb{T}^\infty$: Is exponential pointwise convergence universal? <em>Preprint</em>.  [[https://doi.org/10.48550/arXiv.2405.02866]](https://doi.org/10.48550/arXiv.2405.02866)
 
@@ -43,7 +44,7 @@
 
 - <strong>Zhicheng Tong</strong>, Shuyuan Xiao, Yong Li. Relation between irrationality and regularity for $C^1$ conjugacy of $C^2$ circle diffeomorphisms to rigid rotations. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2211.01590]](https://doi.org/10.48550/arXiv.2211.01590)
 
-- Chang Liu, <strong>Zhicheng Tong</strong>, Yong Li. Infinite-dimensional Moser's Theorem. 
+
 
 
 
