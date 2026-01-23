@@ -1,7 +1,7 @@
 
 
 #### Published
-- <strong>Zhicheng Tong</strong>, Yong Li. Weighted Birkhoff averages: Deterministic and probabilistic perspectives. To appear in <em>Math. Ann.</em>. [[https://doi.org/10.48550/arXiv.2505.03210]](https://doi.org/10.48550/arXiv.2505.03210)
+- <strong>Zhicheng Tong</strong>, Yong Li. Weighted Birkhoff averages: Deterministic and probabilistic perspectives. To appear in <em>Math. Ann.</em> [[https://doi.org/10.48550/arXiv.2505.03210]](https://doi.org/10.48550/arXiv.2505.03210)
 
 - <strong>Zhicheng Tong</strong>, Yong Li. Exponential convergence of the weighted Birkhoff average. <em>J. Math. Pures Appl. (9)</em> 188 (2024), 470–492. [[https://doi.org/10.1016/j.matpur.2024.06.003]](https://doi.org/10.1016/j.matpur.2024.06.003)
 
