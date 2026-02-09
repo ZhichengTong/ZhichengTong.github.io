@@ -20,6 +20,8 @@
 
 - <strong>Zhicheng Tong</strong>, Yong Li. A note on exponential convergence of Cesàro weighted Birkhoff average and multimodal weighted approach. <em>Acta Math. Sin. (Engl. Ser.)</em> 41 (2025), no. 9, 2301–2323. [[https://doi.org/10.1007/s10114-025-3365-5]](https://doi.org/10.1007/s10114-025-3365-5)
 
+- <strong>Zhicheng Tong</strong>, Shuyuan Xiao, Yong Li. Relation between irrationality and regularity for $C^1$ conjugacy of $C^2$ circle diffeomorphisms to rigid rotations. To appear in <em>Chinese Ann. Math. Ser. B</em>. [[https://doi.org/10.48550/arXiv.2211.01590]](https://doi.org/10.48550/arXiv.2211.01590)
+
 - Jiayin Du, <strong>Zhicheng Tong</strong>, Yong Li. The persistence of full dimensional invariant tori in parameterized Hamiltonian lattice systems. <em>Nonlinearity</em> 38 (2025), no. 7, Paper No. 075005, 34 pp. [[https://doi.org/10.1088/1361-6544/addbba]](https://doi.org/10.1088/1361-6544/addbba)
 
 - Chang Liu, <strong>Zhicheng Tong</strong>, Yong Li. Moser's theorem with frequency-preserving. <em>Proc. Roy. Soc. Edinburgh Sect. A</em> 154 (2024), no. 5, 1473–1503. [[https://doi.org/10.1017/prm.2023.74]](https://doi.org/10.1017/prm.2023.74)
@@ -42,7 +44,6 @@
 
 - <strong>Zhicheng Tong</strong>. Exponential convergence can happen in weighted Birkhoff averages via quasi-periodicity with arbitrarily weak nonresonance and extremely low regularity. 
 
-- <strong>Zhicheng Tong</strong>, Shuyuan Xiao, Yong Li. Relation between irrationality and regularity for $C^1$ conjugacy of $C^2$ circle diffeomorphisms to rigid rotations. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2211.01590]](https://doi.org/10.48550/arXiv.2211.01590)
 
 
 
