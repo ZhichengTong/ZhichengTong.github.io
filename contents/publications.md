@@ -30,19 +30,19 @@
 
 #### Submitted
 
-- <strong>Zhicheng Tong</strong>, Yong Li. Optimal rates of uniform convergence for weighted Birkhoff averages via almost all rotations.
+1. <strong>Zhicheng Tong</strong>, Yong Li. Optimal rates of uniform convergence for weighted Birkhoff averages via almost all rotations.
 
-- <strong>Zhicheng Tong</strong>, Yong Li. Weighted multiple ergodic averages via analytic observables over $\mathbb{T}^\infty$: Is exponential pointwise convergence universal? <em>Preprint</em>.  [[https://doi.org/10.48550/arXiv.2405.02866]](https://doi.org/10.48550/arXiv.2405.02866)
+1. <strong>Zhicheng Tong</strong>, Yong Li. Weighted multiple ergodic averages via analytic observables over $\mathbb{T}^\infty$: Is exponential pointwise convergence universal? <em>Preprint</em>.  [[https://doi.org/10.48550/arXiv.2405.02866]](https://doi.org/10.48550/arXiv.2405.02866)
 
-- <strong>Zhicheng Tong</strong>, Yong Li. Towards sharp regularity: Full-dimensional tori in $C^\infty$ vector fields over $\mathbb{T}^\infty$. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2306.08211]](https://doi.org/10.48550/arXiv.2306.08211)
+1. <strong>Zhicheng Tong</strong>, Yong Li. Towards sharp regularity: Full-dimensional tori in $C^\infty$ vector fields over $\mathbb{T}^\infty$. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2306.08211]](https://doi.org/10.48550/arXiv.2306.08211)
 
-- <strong>Zhicheng Tong</strong>, Yong Li. An infinite-dimensional Kolmogorov theorem and the construction of almost periodic breathers. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2508.13501]](https://doi.org/10.48550/arXiv.2508.13501)
+1. <strong>Zhicheng Tong</strong>, Yong Li. An infinite-dimensional Kolmogorov theorem and the construction of almost periodic breathers. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2508.13501]](https://doi.org/10.48550/arXiv.2508.13501)
 
-- <strong>Zhicheng Tong</strong>, Yong Li. A generic approach via relative singularity and controllability: Frequency-preserving with arbitrarily weak regularity in parameterized Hamiltonian systems. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2309.11797]](https://doi.org/10.48550/arXiv.2309.11797)
+1. <strong>Zhicheng Tong</strong>, Yong Li. A generic approach via relative singularity and controllability: Frequency-preserving with arbitrarily weak regularity in parameterized Hamiltonian systems. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2309.11797]](https://doi.org/10.48550/arXiv.2309.11797)
 
-- <strong>Zhicheng Tong</strong>, Yong Li. Sharp regularity of a weighted Sobolev space over $ \mathbb{T}^n $ and its relation to finitely differentiable KAM theory.
+1. <strong>Zhicheng Tong</strong>, Yong Li. Sharp regularity of a weighted Sobolev space over $ \mathbb{T}^n $ and its relation to finitely differentiable KAM theory.
 
-- <strong>Zhicheng Tong</strong>. Exponential convergence can happen in weighted Birkhoff averages via quasi-periodicity with arbitrarily weak nonresonance and extremely low regularity. 
+1. <strong>Zhicheng Tong</strong>. Exponential convergence can happen in weighted Birkhoff averages via quasi-periodicity with arbitrarily weak nonresonance and extremely low regularity. 
 
 
 
