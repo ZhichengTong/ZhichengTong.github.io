@@ -16,7 +16,7 @@
 
 1. <strong>Zhicheng Tong</strong>, Yong Li. Differentiable Hartman-Grobman Theorem via modulus of continuity: A sharp result on linearization in general Banach space. <em>Commun. Math. Sci.</em> 22 (2024), no. 5, 1361–1396. [[https://doi.org/10.4310/CMS.2024.v22.n5.a8]](https://doi.org/10.4310/CMS.2024.v22.n5.a8)
 
-1. <strong>Zhicheng Tong</strong>, Yong Li. KAM Theorem towards the Weak Diophantine Condition. <em>Commun. Math. Sci.</em> 22 (2024), no. 8, 2311–2343. [[https://doi.org/10.4310/CMS.240918203945]](https://doi.org/10.4310/CMS.240918203945)
+1. <strong>Zhicheng Tong</strong>, Yong Li. KAM Theorem towards the weak Diophantine condition. <em>Commun. Math. Sci.</em> 22 (2024), no. 8, 2311–2343. [[https://doi.org/10.4310/CMS.240918203945]](https://doi.org/10.4310/CMS.240918203945)
 
 1. <strong>Zhicheng Tong</strong>, Yong Li. A note on exponential convergence of Cesàro weighted Birkhoff average and multimodal weighted approach. <em>Acta Math. Sin. (Engl. Ser.)</em> 41 (2025), no. 9, 2301–2323. [[https://doi.org/10.1007/s10114-025-3365-5]](https://doi.org/10.1007/s10114-025-3365-5)
 
@@ -26,7 +26,7 @@
 
 1. Chang Liu, <strong>Zhicheng Tong</strong>, Yong Li. Moser's theorem with frequency-preserving. <em>Proc. Roy. Soc. Edinburgh Sect. A</em> 154 (2024), no. 5, 1473–1503. [[https://doi.org/10.1017/prm.2023.74]](https://doi.org/10.1017/prm.2023.74)
 
-1. Chang Liu, <strong>Zhicheng Tong</strong>, Yong Li. Infinite-dimensional Moser's Theorem. To appear in <em>Acta Math. Sin. (Engl. Ser.)</em>.
+
 
 #### Submitted
 
@@ -44,6 +44,7 @@
 
 1. <strong>Zhicheng Tong</strong>. Exponential convergence can happen in weighted Birkhoff averages via quasi-periodicity with arbitrarily weak nonresonance and extremely low regularity. 
 
+1. Chang Liu, <strong>Zhicheng Tong</strong>, Yong Li. Infinite-dimensional Moser's Theorem.
 
 
 
