@@ -40,7 +40,7 @@
 
 1. <strong>Zhicheng Tong</strong>, Yong Li. A generic approach via relative singularity and controllability: Frequency-preserving with arbitrarily weak regularity in parameterized Hamiltonian systems. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2309.11797]](https://doi.org/10.48550/arXiv.2309.11797)
 
-1. <strong>Zhicheng Tong</strong>, Yong Li. Sharp regularity of a weighted Sobolev space over $ \mathbb{T}^n $ and its relation to finitely differentiable KAM theory.
+1. <strong>Zhicheng Tong</strong>, Yong Li. Sharp regularity of a weighted Sobolev space over $ \mathbb{T}^n $ and its relation to finitely differentiable KAM theory. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2604.04665]](https://doi.org/10.48550/arXiv.2604.04665)
 
 1. <strong>Zhicheng Tong</strong>. Exponential convergence can happen in weighted Birkhoff averages via quasi-periodicity with arbitrarily weak nonresonance and extremely low regularity. 
 
