@@ -3,7 +3,7 @@
 #### Published
 1. <strong>Zhicheng Tong</strong>, Yong Li. Weighted Birkhoff averages: Deterministic and probabilistic perspectives. <em>Math. Ann.</em> 394 (2026), no. 1, 18, 46 pp. [[https://doi.org/10.1007/s00208-026-03311-0]](https://doi.org/10.1007/s00208-026-03311-0)
 
-1. <strong>Zhicheng Tong</strong>, Yong Li. Exponential convergence of the weighted Birkhoff average. <em>J. Math. Pures Appl. (9)</em> 188 (2024), 470–492. [[https://doi.org/10.1016/j.matpur.2024.06.003]](https://doi.org/10.1016/j.matpur.2024.06.003)
+1. <strong>Zhicheng Tong</strong>, Yong Li. Exponential convergence of the weighted Birkhoff average. $\color{#0000B4}{<em>J. Math. Pures Appl. (9)</em>}$ 188 (2024), 470–492. [[https://doi.org/10.1016/j.matpur.2024.06.003]](https://doi.org/10.1016/j.matpur.2024.06.003)
 
 1. <strong>Zhicheng Tong</strong>, Yong Li. Quantitative uniform exponential acceleration of averages along decaying waves. <em>Izv. Ross. Akad. Nauk Ser. Mat.</em> 89 (2025), no. 6, 131–161; reprinted in <em>Izv. Math.</em> 89 (2025), no. 6, 1208–1238. [[https://doi.org/10.4213/im9666]](https://doi.org/10.4213/im9666); [[https://doi.org/10.4213/im9666e]](https://doi.org/10.4213/im9666e)  
 
