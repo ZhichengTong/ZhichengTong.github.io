@@ -26,7 +26,7 @@
 
 1. Chang Liu, <strong>Zhicheng Tong</strong>, Yong Li. Moser's theorem with frequency-preserving. <em>Proc. Roy. Soc. Edinburgh Sect. A</em> 154 (2024), no. 5, 1473–1503. [[https://doi.org/10.1017/prm.2023.74]](https://doi.org/10.1017/prm.2023.74)
 
-
+1. Chang Liu, <strong>Zhicheng Tong</strong>, Yong Li. Infinite-dimensional Moser's Theorem. To appear in <em>Acta Math. Sin. (Engl. Ser.)</em>.
 
 #### Submitted
 
@@ -44,7 +44,7 @@
 
 1. <strong>Zhicheng Tong</strong>. Exponential convergence can happen in weighted Birkhoff averages via quasi-periodicity with arbitrarily weak nonresonance and extremely low regularity. 
 
-1. Chang Liu, <strong>Zhicheng Tong</strong>, Yong Li. Infinite-dimensional Moser's Theorem.
+
 
 
 
