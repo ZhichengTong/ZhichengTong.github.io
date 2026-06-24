@@ -1,5 +1,6 @@
 1. China Postdoctoral Research Fund (General Program), 2025.
 1. Dingxin Scholar (Postdoctoral Fellow/Assistant Researcher), Jilin University, 2025.
+1. Outstanding Doctoral Dissertation of Jilin University, entitled "Regularity and Nonresonance in KAM Theory", 2025.
 1. First-Class Academic Achievement Scholarship, 2025.
 1. China Association for Science and Technology Young-Talent Lift Program – Doctoral Track (Inaugural Cohort, Chinese Mathematical Society), 2024.
 1. Jilin University School of Mathematics “Golden Seed” Pre-Training Program, 2024.
