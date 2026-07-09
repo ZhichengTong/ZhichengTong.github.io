@@ -31,7 +31,7 @@
 #### Submitted
 
 1. <strong>Zhicheng Tong</strong>, Yong Li. Optimal rates of uniform convergence for weighted Birkhoff averages via almost all rotations. <em>Preprint</em>.
-[[https://doi.org/10.48550/arXiv.2405.02866]](https://doi.org/10.48550/arXiv.2405.02866)
+[[https://doi.org/10.48550/arXiv.2607.06907]](https://doi.org/10.48550/arXiv.2607.06907)
 
 1. <strong>Zhicheng Tong</strong>, Yong Li. Weighted multiple ergodic averages via analytic observables over $\mathbb{T}^\infty$: Is exponential pointwise convergence universal? <em>Preprint</em>.  [[https://doi.org/10.48550/arXiv.2405.02866]](https://doi.org/10.48550/arXiv.2405.02866)
 
