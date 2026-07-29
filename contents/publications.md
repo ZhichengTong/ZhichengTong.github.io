@@ -7,6 +7,8 @@
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, Quantitative uniform exponential acceleration of averages along decaying waves. <em>Izv. Ross. Akad. Nauk Ser. Mat.</em> 89 (2025), no. 6, 131–161; reprinted in <em>Izv. Math.</em> 89 (2025), no. 6, 1208–1238. [[https://doi.org/10.4213/im9666]](https://doi.org/10.4213/im9666); [[https://doi.org/10.4213/im9666e]](https://doi.org/10.4213/im9666e)  
 
+1. <strong>Zhicheng Tong</strong>, Exponential convergence can happen in weighted Birkhoff averages via quasi-periodicity with arbitrary nonresonance and low regularity. To appear in <em>Bull. Lond. Math. Soc.</em> [[https://doi.org/10.48550/arXiv.2607.21950]](https://doi.org/10.48550/arXiv.2607.21950)
+
 1. <strong>Zhicheng Tong</strong>, Yong Li, Towards continuity: Universal frequency-preserving KAM persistence and remaining regularity in nearly non-integrable Hamiltonian systems. <em>Commun. Contemp. Math.</em> 27 (2025), no. 6, Paper No. 2450038, 42 pp. [[https://doi.org/10.1142/S021919972450038X]](https://doi.org/10.1142/S021919972450038X) 
 
 1. <strong>Zhicheng Tong</strong>, Jiayin Du, Yong Li, The KAM theorem on the modulus of continuity about parameters. <em>Sci. China Math.</em> 67 (2024), no. 3, 577–592. [[https://doi.org/10.1007/s11425-022-2102-5]](https://doi.org/10.1007/s11425-022-2102-5)
@@ -20,7 +22,6 @@
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, A note on exponential convergence of Cesàro weighted Birkhoff average and multimodal weighted approach. <em>Acta Math. Sin. (Engl. Ser.)</em> 41 (2025), no. 9, 2301–2323. [[https://doi.org/10.1007/s10114-025-3365-5]](https://doi.org/10.1007/s10114-025-3365-5)
 
-1. <strong>Zhicheng Tong</strong>, Exponential convergence can happen in weighted Birkhoff averages via quasi-periodicity with arbitrary nonresonance and low regularity. To appear in <em>Bull. Lond. Math. Soc.</em>
 
 1. <strong>Zhicheng Tong</strong>, Shuyuan Xiao, Yong Li, Relation between irrationality and regularity for $C^1$ conjugacy of $C^2$ circle diffeomorphisms to rigid rotations. To appear in <em>Chinese Ann. Math. Ser. B</em>. [[https://doi.org/10.48550/arXiv.2211.01590]](https://doi.org/10.48550/arXiv.2211.01590)
 
