@@ -42,7 +42,7 @@
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, An infinite-dimensional Kolmogorov theorem and the construction of almost periodic breathers. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2508.13501]](https://doi.org/10.48550/arXiv.2508.13501)
 
-1. <strong>Zhicheng Tong</strong>, Yong Li, Sharp regularity of a weighted Sobolev space over $ \mathbb{T}^n $ and its relation to finitely differentiable KAM theory. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2604.04665]](https://doi.org/10.48550/arXiv.2604.04665)
+1. <strong>Zhicheng Tong</strong>, Yong Li, Sharp regularity of a weighted Sobolev space over $\mathbb{T}^n$ and its relation to finitely differentiable KAM theory. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2604.04665]](https://doi.org/10.48550/arXiv.2604.04665)
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, A generic approach via relative singularity and controllability: Frequency-preserving with arbitrarily weak regularity in parameterized Hamiltonian systems. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2309.11797]](https://doi.org/10.48550/arXiv.2309.11797)
 
