@@ -38,6 +38,8 @@
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, Towards sharp regularity: Full-dimensional tori in $C^\infty$ vector fields over $\mathbb{T}^\infty$. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2306.08211]](https://doi.org/10.48550/arXiv.2306.08211)
 
+1. <strong>Zhicheng Tong</strong>, Yong Li, Laskar's frequency map analysis revisited. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2608.02182]](https://doi.org/10.48550/arXiv.2608.02182)
+
 1. <strong>Zhicheng Tong</strong>, Yong Li, Weighted multiple ergodic averages via analytic observables over $\mathbb{T}^\infty$: Is exponential pointwise convergence universal? <em>Preprint</em>.  [[https://doi.org/10.48550/arXiv.2405.02866]](https://doi.org/10.48550/arXiv.2405.02866)
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, An infinite-dimensional Kolmogorov theorem and the construction of almost periodic breathers. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2508.13501]](https://doi.org/10.48550/arXiv.2508.13501)
