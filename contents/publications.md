@@ -7,7 +7,7 @@
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, Quantitative uniform exponential acceleration of averages along decaying waves. <em>Izv. Ross. Akad. Nauk Ser. Mat.</em> 89 (2025), no. 6, 131–161; reprinted in <em>Izv. Math.</em> 89 (2025), no. 6, 1208–1238. [[https://doi.org/10.4213/im9666]](https://doi.org/10.4213/im9666); [[https://doi.org/10.4213/im9666e]](https://doi.org/10.4213/im9666e)  
 
-1. <strong>Zhicheng Tong</strong>, Exponential convergence can happen in weighted Birkhoff averages via quasi-periodicity with arbitrary nonresonance and low regularity. To appear in <em>Bull. Lond. Math. Soc.</em> [[https://doi.org/10.48550/arXiv.2607.21950]](https://doi.org/10.48550/arXiv.2607.21950)
+1. <strong>Zhicheng Tong</strong>, Exponential convergence can happen in weighted Birkhoff averages via quasi-periodicity with arbitrary nonresonance and low regularity. <em>Bull. Lond. Math. Soc.</em> 58 (2026), no. 9, Paper No. e70474, 14 pp. [[https://doi.org/10.1112/blms.70474]](https://doi.org/10.1112/blms.70474)
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, Towards continuity: Universal frequency-preserving KAM persistence and remaining regularity in nearly non-integrable Hamiltonian systems. <em>Commun. Contemp. Math.</em> 27 (2025), no. 6, Paper No. 2450038, 42 pp. [[https://doi.org/10.1142/S021919972450038X]](https://doi.org/10.1142/S021919972450038X) 
 
