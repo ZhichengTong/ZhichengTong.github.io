@@ -1,3 +1,4 @@
+1. National Natural Science Foundation of China (Class C), 2026.
 1. China Postdoctoral Research Fund (General Program), 2025.
 1. Dingxin Scholar (Postdoctoral Fellow/Assistant Researcher), Jilin University, 2025.
 1. Outstanding Doctoral Dissertation of Jilin University, entitled "Regularity and Nonresonance in KAM Theory", 2025.
