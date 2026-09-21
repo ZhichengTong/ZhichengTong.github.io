@@ -40,7 +40,7 @@
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, Laskar's frequency map analysis revisited. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2608.02182]](https://doi.org/10.48550/arXiv.2608.02182)
 
-1. <strong>Zhicheng Tong</strong>, Yong Li, Complete characterization of planar $C^1$ linearizability and optimal conjugacy regularity. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2609.21233]](https://doi.org/10.48550/arXiv.2609.21233
+1. <strong>Zhicheng Tong</strong>, Yong Li, Complete characterization of planar $C^1$ linearizability and optimal conjugacy regularity. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2609.21233]](https://doi.org/10.48550/arXiv.2609.21233)
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, Weighted multiple ergodic averages via analytic observables over $\mathbb{T}^\infty$: Is exponential pointwise convergence universal? <em>Preprint</em>.  [[https://doi.org/10.48550/arXiv.2405.02866]](https://doi.org/10.48550/arXiv.2405.02866)
 
