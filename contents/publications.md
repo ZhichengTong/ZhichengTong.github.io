@@ -50,6 +50,8 @@
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, A generic approach via relative singularity and controllability: Frequency-preserving with arbitrarily weak regularity in parameterized Hamiltonian systems. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2309.11797]](https://doi.org/10.48550/arXiv.2309.11797)
 
+1. Jianming Liu, <strong>Zhicheng Tong</strong>, Extrapolating escape dynamics from non-escaping trajectories in Hamiltonian systems. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2610.09265]](https://doi.org/10.48550/arXiv.2610.09265)
+
 
 
 
