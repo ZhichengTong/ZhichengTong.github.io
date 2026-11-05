@@ -55,6 +55,8 @@
 
 1. <strong>Zhicheng Tong</strong>, Xue Yang, Yong Li, Exponential and superexponential approximation via neural networks. <em>Preprint</em>. [[https://doi.org/10.13140/RG.2.2.15491.05920]](https://doi.org/10.13140/RG.2.2.15491.05920)
 
+1. <strong>Zhicheng Tong</strong>, Unavoidable loss of analytic width in KAM conjugacies. <em>Preprint</em>. [[https://doi.org/10.13140/RG.2.2.27869.99042]](https://doi.org/10.13140/RG.2.2.27869.99042)
+
 1. Zhe Chen, <strong>Zhicheng Tong</strong>, Finiteness of planar central configurations of five bodies for all positive masses: On Smale's sixth problem. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2610.16107]](https://doi.org/10.48550/arXiv.2610.16107)
 
 1. Zhe Chen, <strong>Zhicheng Tong</strong>, Finiteness of planar central configurations of six bodies for all positive masses: Part I, exceptional-mass first limits. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2610.23329]](https://doi.org/10.48550/arXiv.2610.23329)
