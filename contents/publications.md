@@ -5,7 +5,9 @@
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, Exponential convergence of the weighted Birkhoff average. <em>J. Math. Pures Appl. (9)</em> 188 (2024), 470–492. [[https://doi.org/10.1016/j.matpur.2024.06.003]](https://doi.org/10.1016/j.matpur.2024.06.003)
 
-1. <strong>Zhicheng Tong</strong>, Yong Li, Quantitative uniform exponential acceleration of averages along decaying waves. <em>Izv. Ross. Akad. Nauk Ser. Mat.</em> 89 (2025), no. 6, 131–161; reprinted in <em>Izv. Math.</em> 89 (2025), no. 6, 1208–1238. [[https://doi.org/10.4213/im9666]](https://doi.org/10.4213/im9666); [[https://doi.org/10.4213/im9666e]](https://doi.org/10.4213/im9666e)  
+1. <strong>Zhicheng Tong</strong>, Yong Li, Quantitative uniform exponential acceleration of averages along decaying waves. <em>Izv. Ross. Akad. Nauk Ser. Mat.</em> 89 (2025), no. 6, 131–161; reprinted in <em>Izv. Math.</em> 89 (2025), no. 6, 1208–1238. [[https://doi.org/10.4213/im9666]](https://doi.org/10.4213/im9666); [[https://doi.org/10.4213/im9666e]](https://doi.org/10.4213/im9666e)
+
+1. <strong>Zhicheng Tong</strong>, Yong Li, Exponential convergence of weighted Birkhoff averages: When more is known about the dynamics. To appear in <em>Uspekhi Mat. Nauk (Russian Math. Surveys)</em>. <em>Preprint</em>. [[https://doi.org/10.13140/RG.2.2.33217.72803]](https://doi.org/10.13140/RG.2.2.33217.72803)
 
 1. <strong>Zhicheng Tong</strong>, Exponential convergence can happen in weighted Birkhoff averages via quasi-periodicity with arbitrary nonresonance and low regularity. <em>Bull. Lond. Math. Soc.</em> 58 (2026), no. 9, Paper No. e70474, 14 pp. [[https://doi.org/10.1112/blms.70474]](https://doi.org/10.1112/blms.70474)
 
