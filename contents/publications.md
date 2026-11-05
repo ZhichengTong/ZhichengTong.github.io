@@ -1,6 +1,6 @@
 
 
-#### Published
+#### Published and Accepted
 1. <strong>Zhicheng Tong</strong>, Yong Li, Weighted Birkhoff averages: Deterministic and probabilistic perspectives. <em>Math. Ann.</em> 394 (2026), no. 1, 18, 46 pp. [[https://doi.org/10.1007/s00208-026-03311-0]](https://doi.org/10.1007/s00208-026-03311-0)
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, Exponential convergence of the weighted Birkhoff average. <em>J. Math. Pures Appl. (9)</em> 188 (2024), 470–492. [[https://doi.org/10.1016/j.matpur.2024.06.003]](https://doi.org/10.1016/j.matpur.2024.06.003)
@@ -22,7 +22,6 @@
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, A note on exponential convergence of Cesàro weighted Birkhoff average and multimodal weighted approach. <em>Acta Math. Sin. (Engl. Ser.)</em> 41 (2025), no. 9, 2301–2323. [[https://doi.org/10.1007/s10114-025-3365-5]](https://doi.org/10.1007/s10114-025-3365-5)
 
-
 1. <strong>Zhicheng Tong</strong>, Shuyuan Xiao, Yong Li, Relation between irrationality and regularity for $C^1$ conjugacy of $C^2$ circle diffeomorphisms to rigid rotations. To appear in <em>Chinese Ann. Math. Ser. B</em>. [[https://doi.org/10.48550/arXiv.2211.01590]](https://doi.org/10.48550/arXiv.2211.01590)
 
 1. Jiayin Du, <strong>Zhicheng Tong</strong>, Yong Li, The persistence of full dimensional invariant tori in parameterized Hamiltonian lattice systems. <em>Nonlinearity</em> 38 (2025), no. 7, Paper No. 075005, 34 pp. [[https://doi.org/10.1088/1361-6544/addbba]](https://doi.org/10.1088/1361-6544/addbba)
@@ -40,19 +39,29 @@
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, Laskar's frequency map analysis revisited. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2608.02182]](https://doi.org/10.48550/arXiv.2608.02182)
 
+1. <strong>Zhicheng Tong</strong>, Yong Li, An infinite-dimensional Kolmogorov theorem and the construction of almost periodic breathers. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2508.13501]](https://doi.org/10.48550/arXiv.2508.13501)
+
 1. <strong>Zhicheng Tong</strong>, Yong Li, Complete characterization of planar $C^1$ linearizability and optimal conjugacy regularity. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2609.21233]](https://doi.org/10.48550/arXiv.2609.21233)
+
+1. <strong>Zhicheng Tong</strong>, Yong Li, Nonpersistence of full-dimensional tori with polynomial decay in nonlinear Schrödinger equations. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2610.22072]](https://doi.org/10.48550/arXiv.2610.22072)
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, Weighted multiple ergodic averages via analytic observables over $\mathbb{T}^\infty$: Is exponential pointwise convergence universal? <em>Preprint</em>.  [[https://doi.org/10.48550/arXiv.2405.02866]](https://doi.org/10.48550/arXiv.2405.02866)
 
-1. <strong>Zhicheng Tong</strong>, Yong Li, An infinite-dimensional Kolmogorov theorem and the construction of almost periodic breathers. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2508.13501]](https://doi.org/10.48550/arXiv.2508.13501)
-
 1. <strong>Zhicheng Tong</strong>, Yong Li, Sharp regularity of a weighted Sobolev space over $\mathbb{T}^n$ and its relation to finitely differentiable KAM theory. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2604.04665]](https://doi.org/10.48550/arXiv.2604.04665)
+
+1. <strong>Zhicheng Tong</strong>, Yong Li, Random Möbius orthogonality on infinite-dimensional tori. <em>Preprint</em>. [[https://doi.org/10.13140/RG.2.2.11420.45441]](https://doi.org/10.13140/RG.2.2.11420.45441)
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, A generic approach via relative singularity and controllability: Frequency-preserving with arbitrarily weak regularity in parameterized Hamiltonian systems. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2309.11797]](https://doi.org/10.48550/arXiv.2309.11797)
 
+1. <strong>Zhicheng Tong</strong>, Xue Yang, Yong Li, Exponential and superexponential approximation via neural networks. <em>Preprint</em>. [[https://doi.org/10.13140/RG.2.2.15491.05920]](https://doi.org/10.13140/RG.2.2.15491.05920)
+
+1. Zhe Chen, <strong>Zhicheng Tong</strong>, Finiteness of planar central configurations of five bodies for all positive masses: On Smale's sixth problem. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2610.16107]](https://doi.org/10.48550/arXiv.2610.16107)
+
+1. Zhe Chen, <strong>Zhicheng Tong</strong>, Finiteness of planar central configurations of six bodies for all positive masses: Part I, exceptional-mass first limits. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2610.23329]](https://doi.org/10.48550/arXiv.2610.23329)
+
 1. Jianming Liu, <strong>Zhicheng Tong</strong>, Extrapolating escape dynamics from non-escaping trajectories in Hamiltonian systems. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2610.09265]](https://doi.org/10.48550/arXiv.2610.09265)
 
-
+1. Zhe Chen, <strong>Zhicheng Tong</strong>, Zhaoyang Wang, Contact configurations and rigidity in the seven- and eight-point Thomson problems. <em>Preprint</em>. [[https://doi.org/10.13140/RG.2.2.17921.62567]](https://doi.org/10.13140/RG.2.2.17921.62567)
 
 
 
