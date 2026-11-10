@@ -47,6 +47,8 @@
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, Nonpersistence of full-dimensional tori with polynomial decay in nonlinear Schrödinger equations. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2610.22072]](https://doi.org/10.48550/arXiv.2610.22072)
 
+1. <strong>Zhicheng Tong</strong>, Yong Li, Xuefeng Zhao, Analytic KAM tori for contact Hamiltonian systems. <em>Preprint</em>. [[https://doi.org/10.13140/RG.2.2.12100.39046]](https://doi.org/10.13140/RG.2.2.12100.39046)
+
 1. <strong>Zhicheng Tong</strong>, Yong Li, Weighted multiple ergodic averages via analytic observables over $\mathbb{T}^\infty$: Is exponential pointwise convergence universal? <em>Preprint</em>.  [[https://doi.org/10.48550/arXiv.2405.02866]](https://doi.org/10.48550/arXiv.2405.02866)
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, Sharp regularity of a weighted Sobolev space over $\mathbb{T}^n$ and its relation to finitely differentiable KAM theory. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2604.04665]](https://doi.org/10.48550/arXiv.2604.04665)
@@ -62,8 +64,6 @@
 1. Zhe Chen, <strong>Zhicheng Tong</strong>, Finiteness of planar central configurations of five bodies for all positive masses: On Smale's sixth problem. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2610.16107]](https://doi.org/10.48550/arXiv.2610.16107)
 
 1. Zhe Chen, <strong>Zhicheng Tong</strong>, Finiteness of planar central configurations of six bodies for all positive masses: Part I, exceptional-mass first limits. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2610.23329]](https://doi.org/10.48550/arXiv.2610.23329)
-
-1. <strong>Zhicheng Tong</strong>, Yong Li, Xuefeng Zhao, Analytic KAM tori for contact Hamiltonian systems. <em>Preprint</em>. [[https://doi.org/10.13140/RG.2.2.12100.39046]](https://doi.org/10.13140/RG.2.2.12100.39046)
 
 1. Jianming Liu, <strong>Zhicheng Tong</strong>, Extrapolating escape dynamics from non-escaping trajectories in Hamiltonian systems. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2610.09265]](https://doi.org/10.48550/arXiv.2610.09265)
 
