@@ -63,6 +63,8 @@
 
 1. Zhe Chen, <strong>Zhicheng Tong</strong>, Finiteness of planar central configurations of six bodies for all positive masses: Part I, exceptional-mass first limits. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2610.23329]](https://doi.org/10.48550/arXiv.2610.23329)
 
+1. <strong>Zhicheng Tong</strong>, Yong Li, Xuefeng Zhao, Analytic KAM tori for contact Hamiltonian systems. <em>Preprint</em>. [[https://doi.org/10.13140/RG.2.2.12100.39046]](https://doi.org/10.13140/RG.2.2.12100.39046)
+
 1. Jianming Liu, <strong>Zhicheng Tong</strong>, Extrapolating escape dynamics from non-escaping trajectories in Hamiltonian systems. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2610.09265]](https://doi.org/10.48550/arXiv.2610.09265)
 
 1. Zhe Chen, <strong>Zhicheng Tong</strong>, Zhaoyang Wang, Contact configurations and rigidity in the seven- and eight-point Thomson problems. <em>Preprint</em>. [[https://doi.org/10.13140/RG.2.2.17921.62567]](https://doi.org/10.13140/RG.2.2.17921.62567)
