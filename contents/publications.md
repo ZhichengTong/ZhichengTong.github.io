@@ -47,7 +47,7 @@
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, Nonpersistence of full-dimensional tori with polynomial decay in nonlinear Schrödinger equations. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2610.22072]](https://doi.org/10.48550/arXiv.2610.22072)
 
-1. <strong>Zhicheng Tong</strong>, Yong Li, Xuefeng Zhao, Analytic KAM tori for contact Hamiltonian systems. <em>Preprint</em>. [[https://doi.org/10.13140/RG.2.2.12100.39046]](https://doi.org/10.13140/RG.2.2.12100.39046)
+1. <strong>Zhicheng Tong</strong>, Yong Li, Xuefeng Zhao, KAM theory for contact Hamiltonian systems. <em>Preprint</em>. [[https://doi.org/10.13140/RG.2.2.12100.39046]](https://doi.org/10.13140/RG.2.2.12100.39046)
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, Weighted multiple ergodic averages via analytic observables over $\mathbb{T}^\infty$: Is exponential pointwise convergence universal? <em>Preprint</em>.  [[https://doi.org/10.48550/arXiv.2405.02866]](https://doi.org/10.48550/arXiv.2405.02866)
 
