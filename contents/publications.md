@@ -53,6 +53,8 @@
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, Sharp regularity of a weighted Sobolev space over $\mathbb{T}^n$ and its relation to finitely differentiable KAM theory. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2604.04665]](https://doi.org/10.48550/arXiv.2604.04665)
 
+1. <strong>Zhicheng Tong</strong>, Xinze Zhang, Yong Li, Random KAM theorem via low regularity. <em>Preprint</em>. [[https://doi.org/10.13140/RG.2.2.22664.79361](https://doi.org/10.13140/RG.2.2.22664.79361)]
+
 1. <strong>Zhicheng Tong</strong>, Yong Li, Random Möbius orthogonality on infinite-dimensional tori. <em>Preprint</em>. [[https://doi.org/10.13140/RG.2.2.11420.45441]](https://doi.org/10.13140/RG.2.2.11420.45441)
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, A generic approach via relative singularity and controllability: Frequency-preserving with arbitrarily weak regularity in parameterized Hamiltonian systems. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2309.11797]](https://doi.org/10.48550/arXiv.2309.11797)
