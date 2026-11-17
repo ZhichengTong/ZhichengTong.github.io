@@ -49,6 +49,8 @@
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, Xuefeng Zhao, KAM theory for contact Hamiltonian systems. <em>Preprint</em>. [[https://doi.org/10.13140/RG.2.2.12100.39046]](https://doi.org/10.13140/RG.2.2.12100.39046)
 
+1. <strong>Zhicheng Tong</strong>, Yong Li, Convergence rates for computation of Lyapunov exponents via weighted Birkhoff averages. <em>Preprint</em>. [[https://doi.org/10.13140/RG.2.2.30706.06086]](https://doi.org/10.13140/RG.2.2.30706.06086)
+
 1. <strong>Zhicheng Tong</strong>, Yong Li, Weighted multiple ergodic averages via analytic observables over $\mathbb{T}^\infty$: Is exponential pointwise convergence universal? <em>Preprint</em>.  [[https://doi.org/10.48550/arXiv.2405.02866]](https://doi.org/10.48550/arXiv.2405.02866)
 
 1. <strong>Zhicheng Tong</strong>, Yong Li, Sharp regularity of a weighted Sobolev space over $\mathbb{T}^n$ and its relation to finitely differentiable KAM theory. <em>Preprint</em>. [[https://doi.org/10.48550/arXiv.2604.04665]](https://doi.org/10.48550/arXiv.2604.04665)
